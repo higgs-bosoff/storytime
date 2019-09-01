@@ -1,0 +1,20 @@
+.lolno {
+    color: #00fafa;
+}
+
+.bar {
+    position: relative;
+    height: 80px;
+    width: 95%;
+    outline: 1px solid #fafafa;
+    display: flex;
+}
+
+.bar-segment {
+    position: relative;
+    display: inline-block;
+    flex-basis: 50px;
+    margin: 3px;
+    height: 74px;
+    background-color: cadetblue;
+}
