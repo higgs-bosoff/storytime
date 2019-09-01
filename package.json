@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/higgs-bosoff/storytime#readme",
   "dependencies": {
-    "jquery": "^3.4.1"
+    "bulma": "^0.7.5",
+    "jquery": "^3.4.1",
+    "vue": "^2.6.10"
   },
   "devDependencies": {
     "sass": "^1.22.10"
