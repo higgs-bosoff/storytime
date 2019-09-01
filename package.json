@@ -4,7 +4,8 @@
   "description": "A graphic timeline and travel planner for story design",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/higgs-bosoff/storytime/issues"
   },
-  "homepage": "https://github.com/higgs-bosoff/storytime#readme"
+  "homepage": "https://github.com/higgs-bosoff/storytime#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {
+    "sass": "^1.22.10"
+  }
 }

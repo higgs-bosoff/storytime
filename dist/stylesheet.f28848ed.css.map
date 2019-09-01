@@ -1,0 +1,1 @@
+{"version":3,"sources":["stylesheet.scss"],"names":[],"mappings":"AAEA;EACE,OAHc","file":"stylesheet.f28848ed.css","sourceRoot":"..","sourcesContent":["$primary-color: #fa0000;\n\nbody {\n  color: $primary-color;\n}"]}
