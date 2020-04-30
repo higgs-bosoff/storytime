@@ -19,7 +19,7 @@
   "homepage": "https://github.com/higgs-bosoff/storytime#readme",
   "dependencies": {
     "bulma": "^0.7.5",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "vue": "^2.6.10"
   },
   "devDependencies": {
